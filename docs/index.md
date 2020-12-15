@@ -3,4 +3,4 @@
 <p><a href="ParamTime.pdf">Implications of The Assumption of Parametric Time on Wavefunction Collapse and A Resulting Analogy with Killing Horizon Thermodynamics</a>
 <p><a href="">An Introduction To Random Geometric Graphs for Physicists</a>
 <p><a href="https://arxiv.org/pdf/2007.03772.pdf">Analogies Between The Relativistically Invariant Canonical Ensemble and Quantum Mechanics</a>
-<p><a href="GraphDiffStruct_Notes.pdf">Notes on Extending Manifold Technologies to Discrete Graphs</a>
+<p><a href=>Notes on Extending Manifold Technologies to Discrete Graphs</a>
