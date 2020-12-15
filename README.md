@@ -1,2 +1,2 @@
 # iff3.github.io
-A weboage for personal projects.
+A webpage for personal projects.
