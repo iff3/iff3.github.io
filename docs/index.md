@@ -53,7 +53,7 @@ Comments: The end section of this paper uses some clever tricks to simplify the 
 <hr>
 <h3>Notes</h3>
   <p> [5] <a href="https://arxiv.org/pdf/2007.03772.pdf">Analogies Between The Relativistically Invariant Canonical Ensemble and Quantum Mechanics</a>
-  <p><a href="">Notes on Extending Manifold Technologies to Discrete Graphs</a></p>
+  <p> [6] <a href="">Notes on Extending Manifold Technologies to Discrete Graphs</a></p>
   
   
   
