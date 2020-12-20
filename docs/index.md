@@ -43,7 +43,7 @@ Comments: The end section of this paper uses some clever tricks to simplify the 
   </p>
   <hr>
   
-  <p><a href="https://iff3.github.io/RGGforPhys.pdf">An Introduction To Random Geometric Graphs for Physicists</a>
+  <p> [4] <a href="https://iff3.github.io/RGGforPhys.pdf">An Introduction To Random Geometric Graphs for Physicists</a>
 
 
 <p>Abstract: The goal of the project is to understand the critical behaviour of randomly generated Directed Acyclic Graphs (DAG), with particular interest in infinite clusters, connectivity, and network geodesics. In this sense, the hope is to elucidate the nature of information flow in complex, real world systems. This writing will give an overview on similar results for undirected, Random Geometric Graphs (RGGs) as background. It will cover the Poisson Point Process, Campbell's Theorems, typical connection models, and monotonic, infinite cluster, and full connectivity phase transitions.</p>
@@ -52,7 +52,7 @@ Comments: The end section of this paper uses some clever tricks to simplify the 
 <hr>
 <hr>
 <h3>Notes</h3>
-  <p> [4] <a href="https://arxiv.org/pdf/2007.03772.pdf">Analogies Between The Relativistically Invariant Canonical Ensemble and Quantum Mechanics</a>
+  <p> [5] <a href="https://arxiv.org/pdf/2007.03772.pdf">Analogies Between The Relativistically Invariant Canonical Ensemble and Quantum Mechanics</a>
   <p><a href="">Notes on Extending Manifold Technologies to Discrete Graphs</a></p>
   
   
