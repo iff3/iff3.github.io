@@ -32,7 +32,7 @@ Comments: The end section of this paper uses some clever tricks to simplify the 
   <hr>
   
   
-  <p> [3] <a href="https://iff3.github.io/ParamTime.pdf">Implications of The Assumption of Parametric Time on Wavefunction Collapse and A Resulting Analogy with Killing Horizon Thermodynamics</a></p>
+  <p> [3] <a href="https://iff3.github.io/ParamTime2.pdf">Implications of The Assumption of Parametric Time on Wavefunction Collapse and A Resulting Analogy with Killing Horizon Thermodynamics</a></p>
   
   <p>
   Abstract: Two basic assumptions are applied here which enable us to probe the nature of wavefunction collapse. Firstly, we expect all levels of physics to be described in terms of systems in states. Secondly, time is parametric and not associated with an operator. From these assumptions we argue the existence of a thermodynamic nonunitary operator governing collapse, and analyze its behaviour. We then note that the property of wavefunction collapse to conceal a systems previous states from an observer is similar to the concealment of the past of an infalling system at a future Killing Horizon. This leads to the reinterpretation of the behaviour of the redshift factor at a horizon in a stationary spacetime as a manifestation of wavefunction collapse, and so Hawking radiation as a consequence of the same phenomenon.
