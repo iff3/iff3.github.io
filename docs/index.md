@@ -22,11 +22,11 @@
   <p> [2] <a href="https://iff3.github.io/RelativeDiffusion.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
   
   <p>
-    Abstract: The diffusion of a relativistic gas on a Lorentzian manifold is modelled as a random walk, in which the decorrelation of a particles current state from its past is treated as a decay of information. From this a diffusion equation is retrieved which is fully relativistic, and obeys the second law of thermodynamics. It is then shown that by a change of variables that this diffusion equation can be made to resemble the Klein-Gordon Equation, leading to a nice set of analogies between classical statistical motion, and quantum statistical motion.
+    Abstract: The diffusion of a relativistic gas on a Lorentzian manifold is modelled as a local random walk, in which the decorrelation of a particles current state from its past is treated as a decay of information. From this a diffusion equation is retrieved which is fully relativistic, and obeys the second law of thermodynamics. It is then shown that by a change of variables that this diffusion equation can be made to resemble the Klein-Gordon Equation, leading to a nice set of analogies between classical statistical motion, and quantum statistical motion.
 </p>
 
 <p>
-Comments: The end section of this paper uses some clever tricks to simplify the notation, although there are some subtleties to these tricks I have not yet picked apart. Many of the takeaways of this paper are similar to those of [1]: firstly, statistical systems have an arrow of time, which manifest mathematically as a 4-vector designating the relevant systems rest frame; and secondly, quantum mechanics and statistical mechanics are related by the fact that QM systems have compact, rotational phases, while SM systems have non-compact, hyperbolic phases ("generalized Wick rotation").
+Comments: The end section of this paper uses some clever tricks to simplify the notation, although there are some subtleties to these tricks I have not yet picked apart. Section 4 is also naive, and was written before [1] was properly developed (when [1] was still [5]). Many of the takeaways of this paper are similar to those of [1]: firstly, statistical systems have an arrow of time, which manifest mathematically as a 4-vector designating the relevant systems rest frame; and secondly, quantum mechanics and statistical mechanics are related by the fact that QM systems have compact, rotational phases, while SM systems have non-compact, hyperbolic phases ("generalized Wick rotation").
 </p>
 
   <hr>
