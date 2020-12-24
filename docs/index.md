@@ -19,7 +19,7 @@
 </p>
   <hr>
   
-  <p> [2] <a href="https://iff3.github.io/RelativeDiffusion.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
+  <p> [2] <a href="https://iff3.github.io/RelativeDiffusion2.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
   
   <p>
     Abstract: The diffusion of a relativistic gas on a Lorentzian manifold is modelled as a local random walk, in which the decorrelation of a particles current state from its past is treated as a decay of information. From this a diffusion equation is retrieved which is fully relativistic, and obeys the second law of thermodynamics. It is then shown that by a change of variables that this diffusion equation can be made to resemble the Klein-Gordon Equation, leading to a nice set of analogies between classical statistical motion, and quantum statistical motion.
