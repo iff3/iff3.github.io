@@ -8,7 +8,7 @@
 <hr>
 
 <p> [1]
-  <a href="https://iff3.github.io/RelativeInvariantThermo.pdf">A Relativistically Invariant Formulation of The Canonical Ensemble and The Transformation Law for Temperature</a> </p>
+  <a href="https://iff3.github.io/RelativeInvariantThermo2.pdf">A Relativistically Invariant Formulation of The Canonical Ensemble and The Transformation Law for Temperature</a> </p>
   
   <p>
   Abstract: An invariant Boltzmann distribution is derived by exploiting the symmetries between relativistic energy and momentum, ultimately leading to the realization of an inverse four-temperature. The form of the four temperature is constrained and the Boltzmann distribution is shown to agree with the Maxwell-Jutner distribution. It is further shown that taking the distribution off-shell leads to a natural PDE for the partition function similar in form to the Klein-Gordon equation. This ultimately leads to a generalization of the wick rotation correspondence between quantum and statistical mechanics, as well as an interesting interpretation of Lorentz group gauge theories. 
