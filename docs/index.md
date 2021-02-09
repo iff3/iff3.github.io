@@ -11,7 +11,7 @@
   <a href="https://iff3.github.io/RelativeInvariantThermo2.pdf">A Relativistically Invariant Formulation of The Canonical Ensemble and The Transformation Law for Temperature</a> </p>
   
   <p>
-  Abstract: An invariant Boltzmann distribution is derived by exploiting the symmetries between relativistic energy and momentum, ultimately leading to the realization of an inverse four-temperature. The form of the four temperature is constrained and the Boltzmann distribution is shown to agree with the Maxwell-Jutner distribution. It is further shown that taking the distribution off-shell leads to a natural PDE for the partition function similar in form to the Klein-Gordon equation. This ultimately leads to a generalization of the wick rotation correspondence between quantum and statistical mechanics, as well as an interesting interpretation of Lorentz group gauge theories. 
+  Abstract: An invariant Boltzmann distribution is derived by exploiting the symmetries between relativistic energy and momentum, ultimately leading to the realization of an inverse four-temperature. The form of the four temperature is constrained and the Boltzmann distribution is shown to agree with the Maxwell-Jutner distribution. It is further shown that taking the distribution off-shell leads to a natural PDE for the partition function similar in form to the Klein-Gordon equation. This ultimately leads to a generalization of the Wick rotation correspondence between quantum and statistical mechanics, as well as an interesting interpretation of Lorentz group gauge theories. 
  </p>
 
   <p>
@@ -50,11 +50,12 @@ Comments: The end section of this paper uses some clever tricks to simplify the 
 
 <p>Comments: A litterature review anticipating my MSci project. Many of the proofs in this area of mathematics are not quite suited for the typical physicist, so I ended up coming up with intutions pointing towards equivalent or similar results myself.</p>
 <hr>
-<hr>
 <h3>Notes</h3>
   <p> [5] <a href="https://arxiv.org/pdf/2007.03772.pdf">Analogies Between The Relativistically Invariant Canonical Ensemble and Quantum Mechanics</a>
   <p> [6] <a href="https://iff3.github.io/DecoherentKillingHorizons.pdf">A Further Suggestion of Wavefunction Collapse Like Behaviour at Killing Horizons</a>
   <p> [7] <a href="https://iff3.github.io/FractalPathIntegral.pdf">Fractal Dimension Path Integral</a></p>
+  <p> [8] <a href="https://iff3.github.io/AlembError.pdf">Possible Error in The Causet Alembertian</a></p>
+  
   
   
   
