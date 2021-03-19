@@ -54,7 +54,7 @@ Comments: The end section of this paper uses some clever tricks to simplify the 
   <p> [5] <a href="https://arxiv.org/pdf/2007.03772.pdf">Analogies Between The Relativistically Invariant Canonical Ensemble and Quantum Mechanics</a>
   <p> [6] <a href="https://iff3.github.io/DecoherentKillingHorizons.pdf">A Further Suggestion of Wavefunction Collapse Like Behaviour at Killing Horizons</a>
   <p> [7] <a href="https://iff3.github.io/FractalPathIntegral.pdf">Fractal Dimension Path Integral</a></p>
-  <p> [8] <a href="https://iff3.github.io/AlembError.pdf">Possible Error in The Causet Alembertian</a></p>
+  
   
   
   
