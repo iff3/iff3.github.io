@@ -5,9 +5,22 @@
 <hr>
 
 <h3>Papers</h3>
-<hr>
+  
+  <hr>
+  
+  <p> [1] <a href="https://iff3.github.io/RelativeDiffusion3.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
+  
+  <p>
+    Abstract: The simplest possible random walk model in Minwkoski spacetime is constructed and analyzed. It is shown that the model leads to a non-hyperbolic heat equation with the unique property that its coefficients depend on the boundary conditions of the distribution, which allows one to safely break Lorentz symmetry at the level of system initialisation. The properties of this PDE are analyzed, and it is found that the PDE has a Klein-Gordon like Lagrangian description under the appropriate coordinate transformation, which with a Wick rotation becomes the Klein-Gordon equation exactly; a conserved current similar to Fourier's heat law; and a Riemannian metric with a Cartesian elliptic symmetry.
+</p>
 
-<p> [1]
+<p>
+  Comments: This is a more sophisticated development of ideas from [8]. This paper is more rigorous than the others, which is an important improvement I would like to maintain. This is also currently in a rougher state than the others; I still need to clarify the meaning of "Cartesian" elliptic symmetry, and need to consider more carefully the definitions of some of the integrals. Also need to compile references.
+</p>
+  
+<hr>
+  
+<p> [2]
   <a href="https://iff3.github.io/RelativeInvariantThermo2.pdf">A Relativistically Invariant Formulation of The Canonical Ensemble and The Transformation Law for Temperature</a> </p>
   
   <p>
@@ -15,19 +28,9 @@
  </p>
 
   <p>
-     Comments: References for this are essentially identical to those in [5]. This paper is a better development of the foundational ideas from [5]. Currently thinking about how this can be applied to the FLRW spacetime and the cosmic fluid. FLRW is non-static, but conformally equivalent to (A)dS. A photon bath should therefore be in thermodynamic equilibrium, but I suspect other matter will actually not be.
+     Comments: References for this are essentially identical to those in [5]. This paper is a better development of the foundational ideas from [5]. 
 </p>
-  <hr>
   
-  <p> [2] <a href="https://iff3.github.io/RelativeDiffusion2.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
-  
-  <p>
-    Abstract: The diffusion of a relativistic gas on a Lorentzian manifold is modelled as a local random walk, in which the decorrelation of a particles current state from its past is treated as a decay of information. From this a diffusion equation is retrieved which is fully relativistic, and obeys the second law of thermodynamics. It is then shown that by a change of variables that this diffusion equation can be made to resemble the Klein-Gordon Equation, leading to a nice set of analogies between classical statistical motion, and quantum statistical motion.
-</p>
-
-<p>
-Comments: The end section of this paper uses some clever tricks to simplify the notation, although there are some subtleties to these tricks I have not yet picked apart. Section 4 is also naive, and was written before [1] was properly developed (when [1] was still [5]). Many of the takeaways of this paper are similar to those of [1]: firstly, statistical systems have an arrow of time, which manifest mathematically as a 4-vector designating the relevant systems rest frame; and secondly, quantum mechanics and statistical mechanics are related by the fact that QM systems have compact, rotational phases, while SM systems have non-compact, hyperbolic phases ("generalized Wick rotation").
-</p>
 
   <hr>
   
@@ -54,6 +57,7 @@ Comments: The end section of this paper uses some clever tricks to simplify the 
   <p> [5] <a href="https://arxiv.org/pdf/2007.03772.pdf">Analogies Between The Relativistically Invariant Canonical Ensemble and Quantum Mechanics</a>
   <p> [6] <a href="https://iff3.github.io/DecoherentKillingHorizons.pdf">A Further Suggestion of Wavefunction Collapse Like Behaviour at Killing Horizons</a>
   <p> [7] <a href="https://iff3.github.io/FractalPathIntegral.pdf">Fractal Dimension Path Integral</a></p>
+  <p> [8] <a href="https://iff3.github.io/RelativeDiffusion3.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
   
   
   
