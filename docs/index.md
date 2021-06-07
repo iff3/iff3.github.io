@@ -8,7 +8,7 @@
   
   <hr>
   
-  <p> [1] <a href="https://iff3.github.io/RelativeDiffusion3.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
+  <p> [1] <a href="https://iff3.github.io/RelativeDiffusion3.pdf">A Simple Model of Brownian Motion in Spacetime</a></p>
   
   <p>
     Abstract: The simplest possible random walk model in Minwkoski spacetime is constructed and analyzed. It is shown that the model leads to a non-hyperbolic heat equation with the unique property that its coefficients depend on the boundary conditions of the distribution, which allows one to safely break Lorentz symmetry at the level of system initialisation. The properties of this PDE are analyzed, and it is found that the PDE has a Klein-Gordon like Lagrangian description under the appropriate coordinate transformation, which with a Wick rotation becomes the Klein-Gordon equation exactly; a conserved current similar to Fourier's heat law; and a Riemannian metric with a Cartesian elliptic symmetry.
@@ -57,7 +57,7 @@
   <p> [5] <a href="https://arxiv.org/pdf/2007.03772.pdf">Analogies Between The Relativistically Invariant Canonical Ensemble and Quantum Mechanics</a>
   <p> [6] <a href="https://iff3.github.io/DecoherentKillingHorizons.pdf">A Further Suggestion of Wavefunction Collapse Like Behaviour at Killing Horizons</a>
   <p> [7] <a href="https://iff3.github.io/FractalPathIntegral.pdf">Fractal Dimension Path Integral</a></p>
-  <p> [8] <a href="https://iff3.github.io/RelativeDiffusion3.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
+  <p> [8] <a href="https://iff3.github.io/RelativeDiffusion2.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
   
   
   
