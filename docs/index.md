@@ -6,8 +6,6 @@
 
 <h3>Papers</h3>
   
-  <hr>
-  
   <p> [1] <a href="https://iff3.github.io/RelativeDiffusion3.pdf">A Simple Model of Brownian Motion in Spacetime</a></p>
 
 <p>
@@ -43,7 +41,17 @@
   <p> [6] <a href="https://iff3.github.io/DecoherentKillingHorizons.pdf">A Further Suggestion of Wavefunction Collapse Like Behaviour at Killing Horizons</a>
   <p> [7] <a href="https://iff3.github.io/FractalPathIntegral.pdf">Fractal Dimension Path Integral</a></p>
   <p> [8] <a href="https://iff3.github.io/RelativeDiffusion2.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
-  <p> [9] <a href="https://iff3.github.io/RGGforPhys.pdf">An Introduction To Random Geometric Graphs for Physicists</a>
+  <p> [9] <a href="https://iff3.github.io/RGGforPhys.pdf">An Introduction To Random Geometric Graphs for Physicists</a></p>
+    
+ <hr>
+ <hr>
+  
+<h3>Music</h3>
+    <p> [9] <a href="https://iff3.github.io/B Minor.pdf">An Introduction To Random Geometric Graphs for Physicists</a></p>
+    <p> [9] <a href="https://iff3.github.io/Eb Major.pdf">An Introduction To Random Geometric Graphs for Physicists</a></p>
+  
+  <hr>
+  <hr>
   
   
   
