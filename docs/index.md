@@ -42,13 +42,13 @@
   <p> [7] <a href="https://iff3.github.io/FractalPathIntegral.pdf">Fractal Dimension Path Integral</a></p>
   <p> [8] <a href="https://iff3.github.io/RelativeDiffusion2.pdf">A Relativistic Study of Diffusion Using Local Random Walks</a></p>
   <p> [9] <a href="https://iff3.github.io/RGGforPhys.pdf">An Introduction To Random Geometric Graphs for Physicists</a></p>
-    
+  <p> [10] <a href="https://iff3.github.io/A_Curious_Matrix_Differential.pdf">A Matrix Differential</a></p>
  <hr>
  <hr>
   
 <h3>Music</h3>
-    <p> [9] <a href="https://iff3.github.io/B Minor.pdf">An Introduction To Random Geometric Graphs for Physicists</a></p>
-    <p> [9] <a href="https://iff3.github.io/Eb Major.pdf">An Introduction To Random Geometric Graphs for Physicists</a></p>
+    <p> [11] <a href="https://iff3.github.io/B Minor.pdf">B Minor For Piano</a></p>
+    <p> [12] <a href="https://iff3.github.io/Eb Major.pdf">Eb Major for Piano</a></p>
   
   <hr>
   <hr>
