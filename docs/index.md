@@ -1,11 +1,14 @@
 <html>
 <body>
+    
+<hr>
+<hr>
 
 <h3>0 Introduction</h3>
     <p>
-  I am a recent graduate of the MSci Physics with Theoretical Physics program at Imperial College London, and a current theory stream student of the M2 Fundamental Physics program at the University of Aix-Marseille. My interests mainly lie in the intersection between black hole physics, thermodynamics, and quantum mechanics. At the moment I am curious about the origin of analogies between the theory of deformable bodies and manifolds, and how these analogies might help to understand the thermodynamic nature of spacetime. I am also curious about the implications of horizon physics on foundational quantum mechanics and quantum information.
+  I am a recent graduate of the MSci Physics with Theoretical Physics program at Imperial College London, and a current theory stream student of the M2 Fundamental Physics program at the University of Aix-Marseille. My interests mainly lie in the intersection between black hole physics, thermodynamics, and quantum mechanics. At the moment I am curious about the origin of analogies between the theory of deformable bodies and manifolds, and how these analogies might help to understand the thermodynamic nature of spacetime. I am also curious about the interplay of horizon physics and foundational quantum mechanics/quantum information.
   </p>
-  
+  The purpose of this website is to keep track of some of the work I have done over the years. This includes developing some basic equilibrium and non-equilibrium thermodynamics in a Lorentz covariant way, investigating the relationship between geometry and dense directed acyclic networks, and miscellaneous mathematical tricks. I also sometimes write music, so I've put a bit of that here too!
   <p>
     
   </p>
